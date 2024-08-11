@@ -14,7 +14,7 @@ header:
  subtitle: "by Daan"
 footer:
  name: "Hey there, my name is Daan"
- bio: "I am a street photographer from the Netherlands. I try to capture beautiful moments, whatever they may be.."
+ bio: "I am a street photographer from the Netherlands. I try to capture beautiful moments, whatever they may be."
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
   instagram: "https://www.instagram.com/daantakespics"
